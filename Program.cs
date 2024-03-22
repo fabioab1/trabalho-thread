@@ -3,6 +3,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        /* O programa abaixo recebe pelo usuário uma quantidade de 
+        cálculos fatoriais a serem realizados e os números de cada 
+        um. Em seguida, instancia uma thread para cada cálculo e 
+        inicia uma thread após a outra. */
+
         Console.WriteLine("Digite a quantidade de cálculos a serem realizados: ");
         int quantidadeCalculo = Convert.ToInt32(Console.ReadLine());
 
