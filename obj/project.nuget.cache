@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ptgBy0nZwrpiY6IEJtVhbp8D07rMwBVle8/ALBR87zJwtVp5cVytLlX9wf0aPtBg2iJFejKrNiRBF9BnA8/nNg==",
+  "success": true,
+  "projectFilePath": "E:\\TrabalhoThread\\TrabalhoThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio.abreu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\fabio.abreu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\fabio.abreu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\fabio.abreu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
